@@ -20,4 +20,15 @@ A challenging but rewarding Payroll System project.
 
 #### Juanito O...
 
+----------------------------------------------------------------------------
+
+ - [x] "Code Reading and Readability - Inline Documentation:
+ - [x] 1. Need more comments on what the methods are doing
+ - [x] 2. Some part of the codes are lengthy which is hard to follow Modularity, Design, and Syntax:
+ - [x] 2.1. More use of OOP Concepts/Java 4 Pillars (or missing)
+ - [x] 2.2. More breakinng down of codes Correctness and Performance:
+ - [x] 2.2.1. Some MotorPH requirements are not met Tracking and Monitoring :
+ - [x] 2.2.2. Weekly timeline wasn't met"
+
+
 
