@@ -1,7 +1,6 @@
 # MO-IT101-Group 6| Section : A1102 | Version 2 | Basic Payroll System | Client : MotorPH
 
-A challenging but rewarding Payroll System project. 
-
+A Basic Payroll System.
 
 ## Group members :
 
