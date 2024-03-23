@@ -3,7 +3,7 @@
 A challenging but rewarding Payroll System project. 
 
 
-Group members :
+## Group members :
 
 #### Ian Federico S...
 #### Daniel Delos S...
@@ -16,7 +16,7 @@ Group members :
 #### NICKO R...
 #### Zina Ysabelle L...
 
-Our Mentor  
+## Our Mentor  
 
 #### Juanito O...
 
