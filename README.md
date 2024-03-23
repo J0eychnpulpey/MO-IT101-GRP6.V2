@@ -29,7 +29,7 @@ Sir Feedback last time
  - [x] 2.2. More breakinng down of codes Correctness and Performance:
  - [x] 2.2.1. Some MotorPH requirements are not met Tracking and Monitoring :
  - [x] 2.2.2. Weekly timeline wasn't met"
- - [ ] Still learning
+ - [ ] Still learning & making mistakes
  
  #### Week 11
  - [x] Task 13 : Debug your Code
