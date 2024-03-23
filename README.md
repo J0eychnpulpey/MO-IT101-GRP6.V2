@@ -21,7 +21,7 @@ A challenging but rewarding Payroll System project.
 #### Juanito O...
 
 ----------------------------------------------------------------------------
-
+Sir Feedback last time
  - [x] "Code Reading and Readability - Inline Documentation:
  - [x] 1. Need more comments on what the methods are doing
  - [x] 2. Some part of the codes are lengthy which is hard to follow Modularity, Design, and Syntax:
@@ -29,6 +29,6 @@ A challenging but rewarding Payroll System project.
  - [x] 2.2. More breakinng down of codes Correctness and Performance:
  - [x] 2.2.1. Some MotorPH requirements are not met Tracking and Monitoring :
  - [x] 2.2.2. Weekly timeline wasn't met"
-
-
+----------------------------------------------------------------------------
+Code Analysis for MO-IT101-Group6 | Version 1 only | https://docs.google.com/document/d/1SGDl1YLk5Ah1F6rhV6KtyEBet_qqjWDGrEuay0-PiQA/edit#heading=h.qfvr08e5m329
 
