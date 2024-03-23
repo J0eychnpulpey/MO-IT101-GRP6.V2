@@ -29,6 +29,8 @@ Sir Feedback last time
  - [x] 2.2. More breakinng down of codes Correctness and Performance:
  - [x] 2.2.1. Some MotorPH requirements are not met Tracking and Monitoring :
  - [x] 2.2.2. Weekly timeline wasn't met"
+ Week 11
+ - [x] Task 13 : Debug your Code
 ----------------------------------------------------------------------------
 Code Analysis for MO-IT101-Group6 | Version 1 only | https://docs.google.com/document/d/1SGDl1YLk5Ah1F6rhV6KtyEBet_qqjWDGrEuay0-PiQA/edit#heading=h.qfvr08e5m329
 
