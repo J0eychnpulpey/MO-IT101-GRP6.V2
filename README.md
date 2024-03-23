@@ -20,7 +20,8 @@ A Basic Payroll System.
 #### Juanito O...
 
 ----------------------------------------------------------------------------
-Sir Feedback last time
+##### Feedback from version 1 (milestone 2) last time
+
  - [x] "Code Reading and Readability - Inline Documentation:
  - [x] 1. Need more comments on what the methods are doing
  - [x] 2. Some part of the codes are lengthy which is hard to follow Modularity, Design, and Syntax:
