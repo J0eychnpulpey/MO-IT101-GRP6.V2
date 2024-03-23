@@ -1,0 +1,131 @@
+Employee #,Last Name,First Name,Date,Time-In,Time-Out
+1,Garcia,Manuel III,6/03/2024,08:00,17:00
+1,Garcia,Manuel III,6/04/2024,08:30,17:00
+1,Garcia,Manuel III,6/05/2024,08:42,17:00
+1,Garcia,Manuel III,6/06/2024,08:00,17:00
+1,Garcia,Manuel III,6/07/2024,08:11,17:00
+1,Garcia,Manuel III,6/10/2024,08:05,17:00
+1,Garcia,Manuel III,6/11/2024,08:00,17:00
+1,Garcia,Manuel III,6/12/2024,08:24,17:00
+1,Garcia,Manuel III,6/13/2024,08:00,17:00
+1,Garcia,Manuel III,6/14/2024,08:12,17:00
+1,Garcia,Manuel III,6/17/2024,08:00,17:00
+1,Garcia,Manuel III,6/18/2024,08:12,17:00
+1,Garcia,Manuel III,6/19/2024,08:00,17:00
+1,Garcia,Manuel III,6/20/2024,08:42,17:00
+1,Garcia,Manuel III,6/21/2024,08:00,17:00
+1,Garcia,Manuel III,6/24/2024,08:32,17:00
+1,Garcia,Manuel III,6/25/2024,08:00,17:00
+1,Garcia,Manuel III,6/26/2024,08:22,17:00
+1,Garcia,Manuel III,6/27/2024,08:00,17:00
+1,Garcia,Manuel III,6/28/2024,08:04,17:00
+1,Garcia,Manuel III,7/01/2024,08:00,17:00
+1,Garcia,Manuel III,7/02/2024,08:00,17:00
+1,Garcia,Manuel III,7/03/2024,08:00,17:00
+1,Garcia,Manuel III,7/04/2024,08:00,17:00
+1,Garcia,Manuel III,7/05/2024,08:00,17:00
+2,Lim,Antonio,6/03/2024,08:00,17:00
+2,Lim,Antonio,6/04/2024,08:30,17:00
+2,Lim,Antonio,6/05/2024,08:42,17:00
+2,Lim,Antonio,6/06/2024,08:00,17:00
+2,Lim,Antonio,6/07/2024,08:11,17:00
+2,Lim,Antonio,6/10/2024,08:05,17:00
+2,Lim,Antonio,6/11/2024,08:00,17:00
+2,Lim,Antonio,6/12/2024,08:24,17:00
+2,Lim,Antonio,6/13/2024,08:00,17:00
+2,Lim,Antonio,6/14/2024,08:12,17:00
+2,Lim,Antonio,6/17/2024,08:00,17:00
+2,Lim,Antonio,6/18/2024,08:12,17:00
+2,Lim,Antonio,6/19/2024,08:00,17:00
+2,Lim,Antonio,6/20/2024,08:42,17:00
+2,Lim,Antonio,6/21/2024,08:00,17:00
+2,Lim,Antonio,6/24/2024,08:32,17:00
+2,Lim,Antonio,6/25/2024,08:00,17:00
+2,Lim,Antonio,6/26/2024,08:22,17:00
+2,Lim,Antonio,6/27/2024,08:00,17:00
+2,Lim,Antonio,6/28/2024,08:04,17:00
+2,Lim,Antonio,7/01/2024,08:00,17:00
+2,Lim,Antonio,7/02/2024,08:00,17:00
+2,Lim,Antonio,7/03/2024,08:00,17:00
+2,Lim,Antonio,7/04/2024,08:00,17:00
+2,Lim,Antonio,7/05/2024,08:00,17:00
+3,Aquino,Bianca Sofia,6/03/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/04/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/05/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/06/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/07/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/10/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/11/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/12/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/13/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/14/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/17/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/18/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/19/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/20/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/21/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/24/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/25/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/26/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/27/2024,08:00,16:00
+3,Aquino,Bianca Sofia,6/28/2024,08:00,16:00
+4,Reyes,Isabella,6/03/2024,08:00,16:00
+4,Reyes,Isabella,6/04/2024,08:00,16:00
+4,Reyes,Isabella,6/05/2024,08:00,16:00
+4,Reyes,Isabella,6/06/2024,08:00,16:00
+4,Reyes,Isabella,6/07/2024,08:00,16:00
+4,Reyes,Isabella,6/10/2024,08:00,16:00
+4,Reyes,Isabella,6/11/2024,08:00,16:00
+4,Reyes,Isabella,6/12/2024,08:00,16:00
+4,Reyes,Isabella,6/13/2024,08:00,16:00
+4,Reyes,Isabella,6/14/2024,08:00,16:00
+4,Reyes,Isabella,6/17/2024,08:00,16:00
+4,Reyes,Isabella,6/18/2024,08:00,16:00
+4,Reyes,Isabella,6/19/2024,08:00,16:00
+4,Reyes,Isabella,6/20/2024,08:00,16:00
+4,Reyes,Isabella,6/21/2024,08:00,16:00
+4,Reyes,Isabella,6/24/2024,08:00,16:00
+4,Reyes,Isabella,6/25/2024,08:00,16:00
+4,Reyes,Isabella,6/26/2024,08:00,16:00
+4,Reyes,Isabella,6/27/2024,08:00,16:00
+4,Reyes,Isabella,6/28/2024,08:00,16:00
+5,Hernandez,Eduard,6/03/2024,08:00,16:00
+5,Hernandez,Eduard,6/04/2024,08:00,16:00
+5,Hernandez,Eduard,6/05/2024,08:00,16:00
+5,Hernandez,Eduard,6/06/2024,08:00,16:00
+5,Hernandez,Eduard,6/07/2024,08:00,16:00
+5,Hernandez,Eduard,6/10/2024,08:00,16:00
+5,Hernandez,Eduard,6/11/2024,08:00,16:00
+5,Hernandez,Eduard,6/12/2024,08:00,16:00
+5,Hernandez,Eduard,6/13/2024,08:00,16:00
+5,Hernandez,Eduard,6/14/2024,08:00,16:00
+5,Hernandez,Eduard,6/17/2024,08:00,16:00
+5,Hernandez,Eduard,6/18/2024,08:00,16:00
+5,Hernandez,Eduard,6/19/2024,08:00,16:00
+5,Hernandez,Eduard,6/20/2024,08:00,16:00
+5,Hernandez,Eduard,6/21/2024,08:00,16:00
+5,Hernandez,Eduard,6/24/2024,08:00,16:00
+5,Hernandez,Eduard,6/25/2024,08:00,16:00
+5,Hernandez,Eduard,6/26/2024,08:00,16:00
+5,Hernandez,Eduard,6/27/2024,08:00,16:00
+5,Hernandez,Eduard,6/28/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/03/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/04/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/05/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/06/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/07/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/10/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/11/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/12/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/13/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/14/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/17/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/18/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/19/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/20/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/21/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/24/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/25/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/26/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/27/2024,08:00,16:00
+6,Villanueva,Andrea Mae,6/28/2024,08:00,16:00
