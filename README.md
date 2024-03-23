@@ -1,5 +1,8 @@
 # MO-IT101-Group 6 | Version 2 | Basic Payroll System | Client : MotorPH
 
+A challenging but rewarding Payroll System project. 
+
+
 Group members :
 
 Ian Federico S...
